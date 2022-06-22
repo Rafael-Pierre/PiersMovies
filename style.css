@@ -149,8 +149,7 @@ max-width: 20px;
 }
 
 .container-lancamentos{
-
-  margin-left: 75px;  
+ 
 
   display: flex;
   flex-wrap: wrap;
